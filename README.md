@@ -21,7 +21,7 @@ Sentiment classification by BERT on own data
 
 详细步骤我在blog写了：
 
-​	
+​	https://blog.csdn.net/weixin_42175217/article/details/105476646
 
 训练结果：
 
