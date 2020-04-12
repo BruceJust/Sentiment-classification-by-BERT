@@ -9,11 +9,11 @@ Sentiment classification by BERT on own data
 
 安装包：
 
-​	1.transformers
+​		1.transformers
 
-​	2.tensorflow
+​		2.tensorflow
 
-​	3.pytorch（可以不要）
+​		3.pytorch（可以不要）
 
 本案例基于huggingface出品的transformers进行BERT fine-tuning。
 
