@@ -31,4 +31,4 @@ Sentiment classification by BERT on own data
 
 BERT模型比较强大，一上来就容易达到最高分了。
 
-![image-20200412212405959](C:\Users\daish\AppData\Roaming\Typora\typora-user-images\image-20200412212405959.png)
+![img](https://img-blog.csdnimg.cn/20200412212625319.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MjE3NTIxNw==,size_16,color_FFFFFF,t_70)
